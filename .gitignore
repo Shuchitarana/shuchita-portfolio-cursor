@@ -11,7 +11,6 @@ dist-ssr
 npm-debug.log*
 .pnpm-debug.log*
 .npm
-
 .vite
 
 # Environment
