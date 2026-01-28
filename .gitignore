@@ -1,0 +1,27 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+dist-ssr
+*.local
+
+# Logs and cache
+*.log
+npm-debug.log*
+.pnpm-debug.log*
+.npm
+.vite
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Editor
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
